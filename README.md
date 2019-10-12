@@ -16,7 +16,7 @@ Why Slingshot?
 5. **Working example app** - The included example app shows how this all works together.
 6. **Automated production build** - Type `npm run build` to do all this:
 
-[![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U)
+[![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U) [![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/reactive-pokedex.svg)](https://greenkeeper.io/)
 
 ## Get Started
 1. **Initial Machine Setup**. First time running the starter kit? Then complete the [Initial Machine Setup](https://github.com/coryhouse/react-slingshot#initial-machine-setup).
